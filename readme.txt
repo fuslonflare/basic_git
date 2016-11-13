@@ -9,5 +9,5 @@ it's Bangkrapi.
 Create Location Service.
 Build Location Service.
 
-WTF It's ERROR!!!
+Successful to test Location Service
 
